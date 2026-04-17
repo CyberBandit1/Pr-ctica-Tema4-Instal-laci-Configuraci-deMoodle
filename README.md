@@ -26,5 +26,61 @@ En el punt *2* he canviat el nom del lloc i també he fet que la pàgina princip
 
 - Anem a Administració del lloc > Idioma > Paràmetres.
  ![Text alternatiu](Imagen7.png "Títol opcional")
-- Aqui escollim l'idioma que hem descarregat. Despres de escollir ho baixem i fem click en ** S
+- Aqui escollim l'idioma que hem descarregat. Despres de escollir ho baixem i fem click en ***Save changes***
  ![Text alternatiu](Imagen10.png "Títol opcional")
+## Establim una política de contrasenyes robusta:
+- Anem a Administració del lloc > Seguretat > Normatives del lloc.
+  ![Text alternatiu](Imagen11.png "Títol opcional")
+- Despres baixem un poc i pusem un **1** en els opcions que volem per a que siguin **certs** y **0** en els que no volem:
+    ![Text alternatiu](12.png "Títol opcional")
+  Despres baixem un altre vegada per guardar els canvis.
+
+# 3. Creació de cursos
+En aquest punt tenim que crear ***Cursos*** seguint els pasos següents:
+### ***Accediu a quadre de navegació: Cursos > Afegeix curs.***
+
+- Creem un curs anomenat A amb 3 temes.
+  ![Text alternatiu](13.png "Títol opcional")
+  Aqui fem click en **Crear un curso**
+  Despres de aixo tenim que fer click en ***Añadir seccion*** i posem el nom que volem. ex: Tema1,2,3...
+  ![Text alternatiu](15.png "Títol opcional")
+
+
+- Despres creem un curs anomenat B amb 5 temes.
+fem aquesta part de la activitat de la mateixa manera que el pasat
+  ![Text alternatiu](16.png "Títol opcional")
+
+# 3.1 Exploreu les opcions de personalització dels cursos:
+
+- Activeu el mode edició (Botó Activar Edició).
+- Afegiu material (per exemple, un document PDF) a algun tema.
+  ![Text alternatiu](17.png "Títol opcional")
+- Canvieu el títol d'algun tema.
+  ![Text alternatiu](18.png "Títol opcional")
+
+4.1. Creació manual d'usuaris
+Creeu manualment un usuari anomenat Bob amb autenticació manual:
+Anar a Administració del lloc > Usuaris > Comptes > Afegeix un usuari.
+  ![Text alternatiu](bob.png "Títol opcional")
+
+# 4. Creació i gestió d'usuaris
+
+4.2. Creació massiva d'alumnes
+- Genereu 10 alumnes utilitzant un arxiu CSV:
+- Anar a Administració del lloc > Usuaris > Carrega usuaris.
+- Consulteu l'exemple de fitxer CSV a la secció Usuaris.
+- Elimineu dos dels alumnes creats mitjançant Accions amb usuaris en bloc.
+  ![Text alternatiu](10ç.png "Títol opcional")
+
+# 5. Matriculació d'usuaris als cursos
+
+5.1. Configuració de mètodes d'inscripció
+- Curs A:
+Desactiveu qualsevol mètode d'inscripció per fer-lo públic.
+El curs ha de ser accessible sense iniciar sessió.
+![Text alternatiu](ases.png "Títol opcional")
+
+- Curs B:
+Activeu el registre manual d'usuaris.
+Matriculeu l'usuari Bob com a professor i els alumnes restants com a estudiants.
+![Text alternatiu](enrol.png "Títol opcional")
