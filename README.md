@@ -81,11 +81,8 @@ He creat manualment un usuari anomenat Bob.
 - He canviat el tema del Moodle accedint a **Appearance > Themes** dins de l’administració.  
 ![Text alternatiu](cap13 "Títol opcional")
 
-- Després he seleccionat un tema diferent dels disponibles per modificar l’aparença del lloc.  
-![Text alternatiu](24.png "Títol opcional")
-
 - També he afegit un logotip personalitzat anomenat "Joodle" per donar identitat al meu Moodle.  
-![Text alternatiu](logt.png "Títol opcional")
+![Text alternatiu](cap14 "Títol opcional")
 
 
 ## 7.1 Curs A
