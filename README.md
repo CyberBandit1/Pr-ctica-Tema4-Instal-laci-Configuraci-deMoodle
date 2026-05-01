@@ -61,7 +61,7 @@ He creat manualment un usuari anomenat Bob.
 - He creat 10 usuaris alumnes utilitzant un fitxer CSV.
 - Per fer-ho, he accedit a **Administració del lloc > Usuaris > Carrega usuaris** i he pujat el fitxer amb les dades.
 - Després he comprovat que els usuaris s’havien creat correctament i n’he eliminat dos mitjançant accions en bloc.  
-![Text alternatiu](10ç.png "Títol opcional")
+![Text alternatiu](cap11 "Títol opcional")
 
 
 ## 5. Matriculació d’usuaris
