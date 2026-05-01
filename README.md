@@ -35,7 +35,7 @@ En aquest apartat he creat els cursos demanats seguint els passos de la pràctic
 ![Text alternatiu](cap8 "Títol opcional")
 
 - A continuació he creat un altre curs anomenat B amb 5 temes seguint el mateix procediment.  
-![Text alternatiu](16.png "Títol opcional")
+![Text alternatiu](cap9 "Títol opcional")
 
 
 ## 3.1 Personalització dels cursos
