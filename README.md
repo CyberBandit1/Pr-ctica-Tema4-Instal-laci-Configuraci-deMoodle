@@ -3,7 +3,7 @@
 Per començar la pràctica, he iniciat sessió com a administrador dins de Moodle per poder realitzar totes les configuracions inicials.
 
 Primer he fet clic en el **logo del meu perfil** situat a la part superior del Moodle i he entrat a l’opció **"Perfil/Profile"**  
-![Text alternatiu](imagen1.png "Títol opcional")
+![Text alternatiu](cap1.png "Títol opcional")
 
 - Un cop dins del perfil, he accedit a **"Edit Profile"** per poder modificar les meves dades personals  
   ![Text alternatiu](Imagen2.png "Títol opcional")
