@@ -44,7 +44,7 @@ En aquest apartat he personalitzat els cursos per afegir contingut i organitzar-
 
 - He activat el mode edició amb el botó **Activar edició** per poder modificar el curs.
 - Després he afegit un recurs en format PNG dins d’un dels temes del curs.  
-![Text alternatiu](cap9 "Títol opcional")
+![Text alternatiu](cap10 "Títol opcional")
 
 - També he canviat el nom d’alguns temes per fer-los més clars i ordenats.  
 ![Text alternatiu](18.png "Títol opcional")
