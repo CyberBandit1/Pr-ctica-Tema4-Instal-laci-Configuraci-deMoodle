@@ -68,18 +68,18 @@ He creat manualment un usuari anomenat Bob.
 
 ### Curs A
 - He desactivat els mètodes d’inscripció perquè el curs fos públic i accessible sense iniciar sessió.  
-![Text alternatiu](ases.png "Títol opcional")
+![Text alternatiu]("")
 
 ### Curs B
 - He activat la matriculació manual d’usuaris.
-- He assignat l’usuari Bob com a professor i la resta d’alumnes com a estudiants.  
-![Text alternatiu](enrol.png "Títol opcional")
+- He assignat l’usuari UserCreado com a professor i la resta d’alumnes com a estudiants.  
+![Text alternatiu](")
 
 
 ## 6. Personalització del lloc
 
 - He canviat el tema del Moodle accedint a **Appearance > Themes** dins de l’administració.  
-![Text alternatiu](23.png "Títol opcional")
+![Text alternatiu](cap13 "Títol opcional")
 
 - Després he seleccionat un tema diferent dels disponibles per modificar l’aparença del lloc.  
 ![Text alternatiu](24.png "Títol opcional")
