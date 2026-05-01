@@ -14,7 +14,7 @@ Primer he fet clic en el **logo del meu perfil** situat a la part superior del M
 ## 2. Configuració del lloc
 
 - A continuació he configurat la zona horària accedint a **Ubicació > Paràmetres**, i he seleccionat ***Europe/Madrid*** perquè coincideixi amb la meva ubicació.  
-![Text alternatiu](Imagen6.png "Títol opcional")
+![Text alternatiu](cap4 "Títol opcional")
 
 - Després he canviat l’idioma del sistema. Primer he instal·lat el paquet d’idioma des de **Administració del lloc > Idioma > Paquets d’idioma**.  
 ![Text alternatiu](Imagen8.png "Títol opcional")
