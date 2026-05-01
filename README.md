@@ -53,7 +53,7 @@ En aquest apartat he personalitzat els cursos per afegir contingut i organitzar-
 He creat manualment un usuari anomenat Bob.
 
 - Per fer-ho, he anat a **Administració del lloc > Usuaris > Comptes > Afegeix un usuari** i he completat el formulari de registre.  
-![Text alternatiu](bob.png "Títol opcional")
+![Text alternatiu](cap12 "Títol opcional")
 
 
 ### 4.2 Creació massiva
