@@ -43,8 +43,8 @@ En aquest apartat he creat els cursos demanats seguint els passos de la pràctic
 En aquest apartat he personalitzat els cursos per afegir contingut i organitzar-los millor.
 
 - He activat el mode edició amb el botó **Activar edició** per poder modificar el curs.
-- Després he afegit un recurs en format PDF dins d’un dels temes del curs.  
-![Text alternatiu](17.png "Títol opcional")
+- Després he afegit un recurs en format PNG dins d’un dels temes del curs.  
+![Text alternatiu](cap9 "Títol opcional")
 
 - També he canviat el nom d’alguns temes per fer-los més clars i ordenats.  
 ![Text alternatiu](18.png "Títol opcional")
