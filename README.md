@@ -29,7 +29,7 @@ Primer he fet clic en el **logo del meu perfil** situat a la part superior del M
 En aquest apartat he creat els cursos demanats seguint els passos de la pràctica.
 
 - Primer he anat a **Cursos > Afegeix curs** i he creat un curs anomenat A amb 3 temes.  
-![Text alternatiu](13.png "Títol opcional")
+![Text alternatiu](cap7 "Títol opcional")
 
 - Després he fet clic a **Crear un curso** i he configurat les seccions del curs afegint els temes 1, 2 i 3.  
 ![Text alternatiu](15.png "Títol opcional")
