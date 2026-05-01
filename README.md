@@ -11,10 +11,6 @@ Primer he fet clic en el **logo del meu perfil** situat a la part superior del M
 - A continuació he revisat totes les dades del perfil i he canviat informació com el correu electrònic, el nom d’usuari i la contrasenya.  
   ![Text alternatiu](cap3 "Títol opcional")
 
-- També he comprovat l’apartat de la foto de perfil, però no l’he canviat ja que no era necessari en aquesta pràctica.  
-![Text alternatiu](perff.png "Títol opcional")
-
-
 ## 2. Configuració del lloc
 
 En aquest apartat he configurat el Moodle a nivell general des del panell d’administració.
