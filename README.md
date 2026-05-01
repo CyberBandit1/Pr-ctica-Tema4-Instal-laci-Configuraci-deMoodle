@@ -6,7 +6,7 @@ Primer he fet clic en el **logo del meu perfil** situat a la part superior del M
 ![Text alternatiu](cap1 "Títol opcional")
 
 - Un cop dins del perfil, he accedit a **"Edit Profile"** per poder modificar les meves dades personals  
-  ![Text alternatiu](Imagen2.png "Títol opcional")
+  ![Text alternatiu](cap2 "Títol opcional")
 
 - A continuació he revisat totes les dades del perfil i he canviat informació com el correu electrònic, el nom d’usuari i la contrasenya.  
   ![Text alternatiu](Imagen3.png "Títol opcional")
