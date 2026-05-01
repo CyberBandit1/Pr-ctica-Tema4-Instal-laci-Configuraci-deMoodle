@@ -13,13 +13,6 @@ Primer he fet clic en el **logo del meu perfil** situat a la part superior del M
 
 ## 2. Configuració del lloc
 
-En aquest apartat he configurat el Moodle a nivell general des del panell d’administració.
-
-Primer he iniciat sessió amb el rol d’**Administrador** per tenir accés a totes les opcions.  
-![Text alternatiu](Imagen4.png "Títol opcional")
-
-- Després he anat a **Administració del lloc > Primera plana > Paràmetres** i he modificat el nom del lloc i alguns paràmetres generals de la pàgina principal.
-
 - A continuació he configurat la zona horària accedint a **Ubicació > Paràmetres**, i he seleccionat ***Europe/Madrid*** perquè coincideixi amb la meva ubicació.  
 ![Text alternatiu](Imagen6.png "Títol opcional")
 
