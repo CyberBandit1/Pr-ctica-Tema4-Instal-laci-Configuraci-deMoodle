@@ -32,7 +32,7 @@ En aquest apartat he creat els cursos demanats seguint els passos de la pràctic
 ![Text alternatiu](cap7 "Títol opcional")
 
 - Després he fet clic a **Crear un curso** i he configurat les seccions del curs afegint els temes 1, 2 i 3.  
-![Text alternatiu](15.png "Títol opcional")
+![Text alternatiu](cap8 "Títol opcional")
 
 - A continuació he creat un altre curs anomenat B amb 5 temes seguint el mateix procediment.  
 ![Text alternatiu](16.png "Títol opcional")
