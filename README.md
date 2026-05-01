@@ -16,16 +16,6 @@ Primer he fet clic en el **logo del meu perfil** situat a la part superior del M
 - A continuació he configurat la zona horària accedint a **Ubicació > Paràmetres**, i he seleccionat ***Europe/Madrid*** perquè coincideixi amb la meva ubicació.  
 ![Text alternatiu](cap4 "Títol opcional")
 
-- Després he canviat l’idioma del sistema. Primer he instal·lat el paquet d’idioma des de **Administració del lloc > Idioma > Paquets d’idioma**.  
-![Text alternatiu](Imagen8.png "Títol opcional")
-
-- He seleccionat l’idioma “Espanyol” i he fet clic a "Install selected language pack(s)" per instal·lar-lo.  
-![Text alternatiu](Imagen9.png "Títol opcional")
-
-- Un cop instal·lat, he entrat a **Administració del lloc > Idioma > Paràmetres** i he seleccionat l’idioma com a predeterminat, guardant els canvis.  
-![Text alternatiu](Imagen10.png "Títol opcional")
-
-
 ### Política de contrasenyes
 - He accedit a **Administració del lloc > Seguretat > Normatives del lloc** per configurar les normes de seguretat.  
 ![Text alternatiu](Imagen11.png "Títol opcional")
