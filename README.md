@@ -18,7 +18,7 @@ Primer he fet clic en el **logo del meu perfil** situat a la part superior del M
 
 ### Política de contrasenyes
 - He accedit a **Administració del lloc > Seguretat > Normatives del lloc** per configurar les normes de seguretat.  
-![Text alternatiu](Imagen11.png "Títol opcional")
+![Text alternatiu](cap5 "Títol opcional")
 
 - En aquest apartat he activat i desactivat diferents opcions de seguretat utilitzant **1 per activar i 0 per desactivar**, segons els requisits de la pràctica.  
 ![Text alternatiu](12.png "Títol opcional")
